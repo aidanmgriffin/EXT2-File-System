@@ -39,4 +39,4 @@ B. SPECIFICATIONS:
       
 All commands work exactly the same as they do in Unix/Linux.
 
-Completed with Zach Griswold. To note: commit history is weird, since we combined our work at the end of the project. Files uploaded by 'maudan567' are written by Aidan Griffin. 
+Completed with Zach Griswold.
