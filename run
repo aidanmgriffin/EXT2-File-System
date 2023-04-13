@@ -1,0 +1,4 @@
+#! /bin/bash
+cp disk2 diskimage    # use a new copy of disk.ori
+./mk                  # cc main.c 
+./a.out               # run a.out

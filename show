@@ -1,0 +1,4 @@
+#! /bin/bash
+sudo mount diskimage /mnt    # mount disk under Linux
+sudo ls -a -i -l /mnt   # show . and .., inode number, long format
+sudo umount /mnt
